@@ -6,7 +6,7 @@ mp_drawing = mp.solutions.drawing_utils
 mp_drawing_styles = mp.solutions.drawing_styles
 mp_hands = mp.solutions.hands
 
-zdjecia = [f'reka{x}.jpg' for x in range(1, 8)]
+zdjecia = [f'reka{x}.jpg' for x in range(1, 6)]
 
 with mp_hands.Hands(
         static_image_mode=True,
