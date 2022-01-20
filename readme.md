@@ -3,3 +3,5 @@ Do implementacji został użyty język *python*
 oraz następujące biblioteki
 - opencv
 - mediapipe
+
+# Mateusz Stanuch
